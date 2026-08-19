@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90320494,
             "language": "C",
             "last_commit": "2026-07-27T07:29:21Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20335
+            "stars": 20339
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369755856,
             "language": "Go",
             "last_commit": "2026-08-03T08:00:05Z",
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 9857
+            "stars": 9861
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-18T13:43:28Z",
+            "last_commit": "2026-08-19T08:54:36Z",
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5278
+            "stars": 5279
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41855272,
             "language": "Objective-C",
             "last_commit": "2019-12-26T02:25:02Z",
             "owner": "facebookarchive",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112638598,
             "language": "JavaScript",
             "last_commit": "2023-05-03T01:42:52Z",
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3911
+            "stars": 3913
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15789289,
             "language": "Objective-C",
             "last_commit": "2024-11-15T10:31:48Z",
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3822
+            "stars": 3823
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135033395,
             "language": "TypeScript",
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1419482,
             "language": "Objective-C",
             "last_commit": "2024-08-15T08:22:49Z",
             "owner": "ptoomey3",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13483186,
             "language": "Ruby",
             "last_commit": "2023-03-25T07:53:46Z",
             "owner": "dmayer",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6970256,
             "language": "C",
             "last_commit": "2018-07-03T07:06:41Z",
             "owner": "autopear",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165453863,
             "language": "C",
             "last_commit": "2022-05-28T17:18:49Z",
             "owner": "Siguza",
@@ -161,7 +172,7 @@
       "title": "Helpful Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -170,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180677,
             "language": "C",
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8115
+            "stars": 8116
           }
         },
         {
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45699315,
             "language": "Objective-C",
             "last_commit": "2025-09-01T00:42:47Z",
             "owner": "DanTheMan827",
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146060123,
             "language": "Go",
-            "last_commit": "2026-08-18T23:11:38Z",
+            "last_commit": "2026-08-19T02:11:13Z",
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3649
+            "stars": 3650
           }
         },
         {
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13831185,
             "language": "C",
             "last_commit": "2026-06-26T00:07:15Z",
             "owner": "libimobiledevice",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180474,
             "language": "C",
             "last_commit": "2025-12-06T01:14:51Z",
             "owner": "libimobiledevice",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180848,
             "language": "C",
             "last_commit": "2025-10-30T20:49:43Z",
             "owner": "libimobiledevice",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180717,
             "language": "C",
             "last_commit": "2026-04-22T08:36:15Z",
             "owner": "libimobiledevice",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12892000,
             "language": "C",
             "last_commit": "2025-09-07T22:15:00Z",
             "owner": "libimobiledevice",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180767,
             "language": "C",
             "last_commit": "2026-08-04T02:18:04Z",
             "owner": "libimobiledevice",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180632,
             "language": "C",
             "last_commit": "2026-05-22T22:53:04Z",
             "owner": "libimobiledevice",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25316560,
             "language": "C",
             "last_commit": "2025-09-07T22:20:07Z",
             "owner": "libimobiledevice",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97381537,
             "language": "C++",
             "last_commit": "2020-11-29T16:00:20Z",
             "owner": "xerub",
@@ -335,7 +358,7 @@
       "title": "libimobiledevice"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35610263,
             "language": "TypeScript",
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50606910,
             "language": "TypeScript",
             "last_commit": "2026-07-02T08:50:20Z",
             "owner": "nowsecure",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45296707,
             "language": "JavaScript",
             "last_commit": "2023-03-04T02:48:32Z",
             "owner": "nowsecure",
@@ -383,7 +409,7 @@
       "title": "nowsecure tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -392,11 +418,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30102273,
             "language": "JavaScript",
             "last_commit": "2026-08-17T21:31:57Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21610
+            "stars": 21612
           }
         },
         {
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106879638,
             "language": "C++",
             "last_commit": "2024-08-13T19:36:10Z",
             "owner": "sgan81",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62579138,
             "language": "Python",
             "last_commit": "2019-07-26T13:46:56Z",
             "owner": "xtiankisutsa",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 255108963,
             "language": "Python",
             "last_commit": "2025-01-27T00:32:37Z",
             "owner": "arandomdev",
@@ -453,6 +483,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 174371514,
                 "language": "YARA",
                 "last_commit": "2020-10-07T09:38:51Z",
                 "owner": "ghidraninja",
@@ -466,7 +497,7 @@
       "title": "Static Analysis"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -475,11 +506,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95770373,
             "language": "Python",
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9325
+            "stars": 9327
           }
         },
         {
@@ -489,11 +521,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481258108,
             "language": "Python",
             "last_commit": "2026-08-11T22:22:43Z",
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2732
+            "stars": 2733
           }
         },
         {
@@ -503,6 +536,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57376133,
             "language": "JavaScript",
             "last_commit": "2023-05-01T20:29:15Z",
             "owner": "dpnishant",
@@ -517,11 +551,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250478233,
             "language": "TypeScript",
             "last_commit": "2026-08-11T19:32:49Z",
             "owner": "ChiChou",
             "repo": "grapefruit",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -531,6 +566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218020351,
             "language": "JavaScript",
             "last_commit": "2026-05-05T11:03:25Z",
             "owner": "yazgx97",
@@ -545,6 +581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218020351,
             "language": "JavaScript",
             "last_commit": "2026-05-05T11:03:25Z",
             "owner": "yazgx97",
@@ -559,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58191695,
             "language": "Python",
             "last_commit": "2024-08-07T13:03:21Z",
             "owner": "Nightbringer21",
@@ -573,6 +611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6907295,
             "language": "Objective-C",
             "last_commit": "2016-10-26T19:03:16Z",
             "owner": "iSECPartners",
@@ -587,6 +626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131815259,
             "language": "Objective-C",
             "last_commit": "2025-12-03T09:04:42Z",
             "owner": "AirtestProject",
@@ -601,6 +641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93843247,
             "language": null,
             "last_commit": "2017-09-29T14:43:38Z",
             "owner": "aozhimin",
@@ -615,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 392163160,
             "language": "Objective-C",
             "last_commit": "2022-12-29T06:07:36Z",
             "owner": "bytedance",
@@ -629,6 +671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259392313,
             "language": "JavaScript",
             "last_commit": "2021-08-10T15:13:44Z",
             "owner": "m0bilesecurity",
@@ -643,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 734477425,
             "language": "JavaScript",
             "last_commit": "2026-08-15T10:51:53Z",
             "owner": "z3n70",
@@ -657,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103056218,
             "language": "Python",
             "last_commit": "2024-03-26T00:49:04Z",
             "owner": "gh2o",
@@ -671,128 +716,138 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245381045,
             "language": "JavaScript",
             "last_commit": "2023-04-04T09:36:16Z",
             "owner": "NorthwaveSecurity",
             "repo": "fridax",
             "stars": 180
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fsmon",
+              "description": "FileSystem Monitor utility that runs on Linux, Android, iOS and OSX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49590440,
+                "language": "C",
+                "last_commit": "2026-04-11T13:42:05Z",
+                "owner": "nowsecure",
+                "repo": "fsmon",
+                "stars": 1024
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frida-cycript",
+              "description": "This is a fork of [Cycript] 1 in which we replaced its runtime with a brand new runtime called [Mjølner] 3 powered by [Frida] 4. This enables frida-cycript to run on all the platforms and architectures maintained by [frida-core] 8.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67085858,
+                "language": "C",
+                "last_commit": "2023-03-04T04:31:57Z",
+                "owner": "nowsecure",
+                "repo": "frida-cycript",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frida-trace",
+              "description": "Trace APIs declaratively through Frida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53356872,
+                "language": "JavaScript",
+                "last_commit": "2025-06-16T11:51:14Z",
+                "owner": "nowsecure",
+                "repo": "frida-trace",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frida-screenshot",
+              "description": "Grab screenshots using Frida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51963094,
+                "language": "TypeScript",
+                "last_commit": "2026-02-18T00:14:46Z",
+                "owner": "nowsecure",
+                "repo": "frida-screenshot",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "nowsecure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MobSf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30102273,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T21:31:57Z",
+                "owner": "MobSF",
+                "repo": "Mobile-Security-Framework-MobSF",
+                "stars": 21612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RMS-Runtime-Mobile-Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250552704,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T21:28:34Z",
+                "owner": "m0bilesecurity",
+                "repo": "RMS-Runtime-Mobile-Security",
+                "stars": 3071
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Medusa",
+              "description": ". Binary instrumentation framework based on FRIDA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274614921,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T21:00:01Z",
+                "owner": "Ch0pin",
+                "repo": "medusa",
+                "stars": 2332
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Framework"
         }
       ],
       "title": "Dynamic Analysis"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fsmon",
-          "description": "FileSystem Monitor utility that runs on Linux, Android, iOS and OSX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-11T13:42:05Z",
-            "owner": "nowsecure",
-            "repo": "fsmon",
-            "stars": 1024
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frida-cycript",
-          "description": "This is a fork of [Cycript] 1 in which we replaced its runtime with a brand new runtime called [Mjølner] 3 powered by [Frida] 4. This enables frida-cycript to run on all the platforms and architectures maintained by [frida-core] 8.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-03-04T04:31:57Z",
-            "owner": "nowsecure",
-            "repo": "frida-cycript",
-            "stars": 396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frida-trace",
-          "description": "Trace APIs declaratively through Frida.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-06-16T11:51:14Z",
-            "owner": "nowsecure",
-            "repo": "frida-trace",
-            "stars": 237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frida-screenshot",
-          "description": "Grab screenshots using Frida.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-18T00:14:46Z",
-            "owner": "nowsecure",
-            "repo": "frida-screenshot",
-            "stars": 51
-          }
-        }
-      ],
-      "title": "nowsecure"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MobSf",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T21:31:57Z",
-            "owner": "MobSF",
-            "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21610
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RMS-Runtime-Mobile-Security",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-03T21:28:34Z",
-            "owner": "m0bilesecurity",
-            "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3070
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Medusa",
-          "description": ". Binary instrumentation framework based on FRIDA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T21:00:01Z",
-            "owner": "Ch0pin",
-            "repo": "medusa",
-            "stars": 2331
-          }
-        }
-      ],
-      "title": "Framework"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -801,11 +856,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178894186,
             "language": null,
             "last_commit": "2024-04-17T03:04:19Z",
             "owner": "ivRodriguezCA",
             "repo": "RE-iOS-Apps",
-            "stars": 2893
+            "stars": 2894
           }
         },
         {
@@ -815,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 835962788,
             "language": null,
             "last_commit": "2024-08-01T13:13:36Z",
             "owner": "GhidraEnjoyr",
@@ -827,8 +884,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:51:54.051Z",
+    "last_updated": "2026-08-19T12:34:30.310Z",
     "original_repository": "0xdad0/awesome-iOS-security-tools",
+    "original_repository_id": 362057616,
     "original_repository_sha": "6afe1e0306885d6b67142438f6926dfadd43b8cf",
     "enhanced_repository": "enhansome/enhansome-iOS-security-tools",
     "enhanced_repository_description": null,
