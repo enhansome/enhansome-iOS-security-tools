@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T07:29:21Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20339
+            "stars": 20342
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-03T08:00:05Z",
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 9861
+            "stars": 9863
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-19T08:54:36Z",
+            "last_commit": "2026-08-19T17:53:16Z",
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5279
+            "stars": 5281
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8116
+            "stars": 8117
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2025-09-01T00:42:47Z",
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6313
+            "stars": 6312
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 146060123,
             "language": "Go",
-            "last_commit": "2026-08-19T02:11:13Z",
+            "last_commit": "2026-08-19T23:40:15Z",
             "owner": "blacktop",
             "repo": "ipsw",
             "stars": 3650
@@ -231,7 +231,7 @@
             "last_commit": "2026-06-26T00:07:15Z",
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1912
+            "stars": 1913
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-17T21:31:57Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21612
+            "stars": 21615
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-08-13T19:36:10Z",
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2136
+            "stars": 2135
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9327
+            "stars": 9328
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2024-08-07T13:03:21Z",
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 856
+            "stars": 857
           }
         },
         {
@@ -805,7 +805,7 @@
                 "last_commit": "2026-08-17T21:31:57Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21612
+                "stars": 21615
               }
             },
             {
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:30.310Z",
+    "last_updated": "2026-08-19T23:52:16.019Z",
     "original_repository": "0xdad0/awesome-iOS-security-tools",
     "original_repository_id": 362057616,
     "original_repository_sha": "6afe1e0306885d6b67142438f6926dfadd43b8cf",
