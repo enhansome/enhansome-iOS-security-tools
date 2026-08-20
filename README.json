@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T07:29:21Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20342
+            "stars": 20345
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-03T08:00:05Z",
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 9863
+            "stars": 9869
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-19T17:53:16Z",
+            "last_commit": "2026-08-20T20:17:06Z",
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5281
+            "stars": 5286
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-05-03T01:42:52Z",
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3913
+            "stars": 3917
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1487
+            "stars": 1489
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2022-05-28T17:18:49Z",
             "owner": "Siguza",
             "repo": "imobax",
-            "stars": 203
+            "stars": 202
           }
         }
       ],
@@ -186,7 +186,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8117
+            "stars": 8121
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2025-09-01T00:42:47Z",
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6312
+            "stars": 6314
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 146060123,
             "language": "Go",
-            "last_commit": "2026-08-19T23:40:15Z",
+            "last_commit": "2026-08-20T00:52:17Z",
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3650
+            "stars": 3653
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-06-26T00:07:15Z",
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1913
+            "stars": 1914
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2025-12-06T01:14:51Z",
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1749
+            "stars": 1750
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2025-09-07T22:15:00Z",
             "owner": "libimobiledevice",
             "repo": "libusbmuxd",
-            "stars": 686
+            "stars": 685
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-17T21:31:57Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21615
+            "stars": 21616
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9328
+            "stars": 9332
           }
         },
         {
@@ -526,7 +526,7 @@
             "last_commit": "2026-08-11T22:22:43Z",
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2733
+            "stars": 2735
           }
         },
         {
@@ -556,7 +556,7 @@
             "last_commit": "2026-08-11T19:32:49Z",
             "owner": "ChiChou",
             "repo": "grapefruit",
-            "stars": 1378
+            "stars": 1377
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2026-05-05T11:03:25Z",
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1177
+            "stars": 1178
           }
         },
         {
@@ -586,7 +586,7 @@
             "last_commit": "2026-05-05T11:03:25Z",
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1177
+            "stars": 1178
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2024-08-07T13:03:21Z",
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 857
+            "stars": 858
           }
         },
         {
@@ -805,7 +805,7 @@
                 "last_commit": "2026-08-17T21:31:57Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21615
+                "stars": 21616
               }
             },
             {
@@ -861,7 +861,7 @@
             "last_commit": "2024-04-17T03:04:19Z",
             "owner": "ivRodriguezCA",
             "repo": "RE-iOS-Apps",
-            "stars": 2894
+            "stars": 2896
           }
         },
         {
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:52:16.019Z",
+    "last_updated": "2026-08-20T23:53:42.077Z",
     "original_repository": "0xdad0/awesome-iOS-security-tools",
     "original_repository_id": 362057616,
     "original_repository_sha": "6afe1e0306885d6b67142438f6926dfadd43b8cf",
