@@ -4,11 +4,11 @@
 
 ### Helpful Tools
 
-* [ish](https://github.com/ish-app/ish) ⭐ 20,349 | 🐛 702 | 🌐 C | 📅 2026-07-27. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
+* [ish](https://github.com/ish-app/ish) ⭐ 20,347 | 🐛 701 | 🌐 C | 📅 2026-08-22. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
 
-* [ipatool](https://github.com/majd/ipatool) ⭐ 9,872 | 🐛 32 | 🌐 Go | 📅 2026-08-03
+* [ipatool](https://github.com/majd/ipatool) ⭐ 9,876 | 🐛 32 | 🌐 Go | 📅 2026-08-03
 
-* [idb-facebook](https://github.com/facebook/idb/) ⭐ 5,289 | 🐛 181 | 🌐 Swift | 📅 2026-08-21. Tool for replacing WebDriverAgent.
+* [idb-facebook](https://github.com/facebook/idb/) ⭐ 5,291 | 🐛 181 | 🌐 Swift | 📅 2026-08-22. Tool for replacing WebDriverAgent.
 
 * [WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent) ⚠️ Archived. Archive.
 
@@ -16,7 +16,7 @@
 
 * [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,823 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15. Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research.
 
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,491 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24. Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,492 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24. Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 
 * [Keychain-Dumper](https://github.com/ptoomey3/Keychain-Dumper) ⭐ 1,419 | 🐛 19 | 🌐 Objective-C | 📅 2024-08-15
 
@@ -46,13 +46,13 @@
 
 ### [libimobiledevice](https://libimobiledevice.org/)
 
-* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,122 | 🐛 848 | 🌐 C | 📅 2026-06-10 A library to communicate with services on iOS devices using native protocols.
+* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,123 | 🐛 848 | 🌐 C | 📅 2026-06-10 A library to communicate with services on iOS devices using native protocols.
 
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,314 | 🐛 123 | 🌐 Objective-C | 📅 2025-09-01 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
-* [ipsw](https://github.com/blacktop/ipsw) ⭐ 3,653 | 🐛 7 | 🌐 Go | 📅 2026-08-21. iOS/macOS Research Swiss Army Knife
+* [ipsw](https://github.com/blacktop/ipsw) ⭐ 3,654 | 🐛 7 | 🌐 Go | 📅 2026-08-22. iOS/macOS Research Swiss Army Knife
 
-* [idevicerestore](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,914 | 🐛 331 | 🌐 C | 📅 2026-06-26 A command-line application to restore firmware files to iOS devices.
+* [idevicerestore](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,914 | 🐛 333 | 🌐 C | 📅 2026-06-26 A command-line application to restore firmware files to iOS devices.
 
 * [usbmuxd](https://github.com/libimobiledevice/usbmuxd) ⭐ 1,750 | 🐛 117 | 🌐 C | 📅 2025-12-06 A socket daemon to multiplex connections from and to iOS devices.
 
@@ -62,7 +62,7 @@
 
 * [libusbmuxd](https://github.com/libimobiledevice/libusbmuxd) ⭐ 685 | 🐛 31 | 🌐 C | 📅 2025-09-07 A client library for applications to handle usbmux protocol connections with iOS devices.
 
-* [libirecovery](https://github.com/libimobiledevice/libirecovery) ⭐ 650 | 🐛 49 | 🌐 C | 📅 2026-08-04 The libirecovery library allows communication with iBoot/iBSS of iOS devices via USB.
+* [libirecovery](https://github.com/libimobiledevice/libirecovery) ⭐ 650 | 🐛 50 | 🌐 C | 📅 2026-08-04 The libirecovery library allows communication with iBoot/iBSS of iOS devices via USB.
 
 * [libplist](https://github.com/libimobiledevice/libplist) ⭐ 632 | 🐛 31 | 🌐 C | 📅 2026-05-22 A small portable C library to handle Apple Property List files in binary or XML format.
 
@@ -119,7 +119,7 @@
 ## Static Analysis
 
 * [jtool.ELF64](https://github.com/MobSF/Mobile-Security-Framework-MobSF/blob/master/mobsf/StaticAnalyzer/tools/ios/jtool.ELF64) ⭐ 21,618 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-21
-* [apfs-fuse](https://github.com/sgan81/apfs-fuse) ⭐ 2,135 | 🐛 125 | 🌐 C++ | 📅 2024-08-13
+* [apfs-fuse](https://github.com/sgan81/apfs-fuse) ⭐ 2,136 | 🐛 125 | 🌐 C++ | 📅 2024-08-13
 * [Mara Framework](https://github.com/xtiankisutsa/MARA_Framework) ⭐ 670 | 🐛 3 | 🌐 Python | 📅 2019-07-26
 * [DyldExtractor](https://github.com/arandomdev/DyldExtractor) ⚠️ Archived
 * [Ghidra](https://ghidra-sre.org/)
@@ -135,7 +135,7 @@
 
 * [objection](https://github.com/sensepost/objection) ⭐ 9,335 | 🐛 55 | 🌐 Python | 📅 2026-07-23 objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 
-* [reFlutter](https://github.com/Impact-I/reFlutter) ⭐ 2,736 | 🐛 10 | 🌐 Python | 📅 2026-08-11. reFlutter.
+* [reFlutter](https://github.com/Impact-I/reFlutter) ⭐ 2,737 | 🐛 10 | 🌐 Python | 📅 2026-08-11. reFlutter.
 
 * [appmon](https://github.com/dpnishant/appmon) ⚠️ Archived. AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida. [Documentation](https://dpnishant.github.io/appmon/).
 
@@ -175,7 +175,7 @@
 ### Framework
 
 * [MobSf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,618 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-21
-* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,071 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03
+* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,070 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03
 * [Medusa](https://github.com/Ch0pin/medusa) ⭐ 2,331 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-11. Binary instrumentation framework based on FRIDA
 * [pirogue](https://pts-project.org/). Mobile device forensics & digital investigation.
 
@@ -220,4 +220,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
