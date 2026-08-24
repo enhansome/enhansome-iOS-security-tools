@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T06:20:13Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20354
+            "stars": 20358
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-03T08:00:05Z",
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 9884
+            "stars": 9896
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-23T16:33:37Z",
+            "last_commit": "2026-08-24T13:00:14Z",
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5291
+            "stars": 5294
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-05-03T01:42:52Z",
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3918
+            "stars": 3919
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-11-15T10:31:48Z",
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3823
+            "stars": 3824
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 146060123,
             "language": "Go",
-            "last_commit": "2026-08-23T21:13:45Z",
+            "last_commit": "2026-08-24T14:48:02Z",
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3655
+            "stars": 3656
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-21T22:30:56Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21625
+            "stars": 21631
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-08-13T19:36:10Z",
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2136
+            "stars": 2137
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9339
+            "stars": 9341
           }
         },
         {
@@ -738,7 +738,7 @@
                 "last_commit": "2026-04-11T13:42:05Z",
                 "owner": "nowsecure",
                 "repo": "fsmon",
-                "stars": 1024
+                "stars": 1023
               }
             },
             {
@@ -805,7 +805,7 @@
                 "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21625
+                "stars": 21631
               }
             },
             {
@@ -881,10 +881,52 @@
         }
       ],
       "title": "Resources and Tutorial"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ios_forensics_suite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 878291351,
+            "language": "HTML",
+            "last_commit": "2024-10-25T05:56:12Z",
+            "owner": "piotrbania",
+            "repo": "ios_forensics_suite",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "iOS Forenscics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-mobile-ctf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78745881,
+            "language": null,
+            "last_commit": "2022-06-26T11:20:21Z",
+            "owner": "xtiankisutsa",
+            "repo": "awesome-mobile-CTF",
+            "stars": 1164
+          }
+        }
+      ],
+      "title": "CTF with iOS app"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:51:01.368Z",
+    "last_updated": "2026-08-24T14:48:57.278Z",
     "original_repository": "0xdad0/awesome-iOS-security-tools",
     "original_repository_id": 362057616,
     "original_repository_sha": "6afe1e0306885d6b67142438f6926dfadd43b8cf",
