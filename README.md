@@ -4,9 +4,9 @@
 
 ### Helpful Tools
 
-* [ish](https://github.com/ish-app/ish) ⭐ 20,358 | 🐛 702 | 🌐 C | 📅 2026-08-22. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
+* [ish](https://github.com/ish-app/ish) ⭐ 20,365 | 🐛 702 | 🌐 C | 📅 2026-08-22. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
 
-* [ipatool](https://github.com/majd/ipatool) ⭐ 9,896 | 🐛 32 | 🌐 Go | 📅 2026-08-03
+* [ipatool](https://github.com/majd/ipatool) ⭐ 9,898 | 🐛 32 | 🌐 Go | 📅 2026-08-03
 
 * [idb-facebook](https://github.com/facebook/idb/) ⭐ 5,294 | 🐛 182 | 🌐 Swift | 📅 2026-08-24. Tool for replacing WebDriverAgent.
 
@@ -50,7 +50,7 @@
 
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,314 | 🐛 123 | 🌐 Objective-C | 📅 2025-09-01 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
-* [ipsw](https://github.com/blacktop/ipsw) ⭐ 3,656 | 🐛 8 | 🌐 Go | 📅 2026-08-24. iOS/macOS Research Swiss Army Knife
+* [ipsw](https://github.com/blacktop/ipsw) ⭐ 3,659 | 🐛 6 | 🌐 Go | 📅 2026-08-24. iOS/macOS Research Swiss Army Knife
 
 * [idevicerestore](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,915 | 🐛 332 | 🌐 C | 📅 2026-08-23 A command-line application to restore firmware files to iOS devices.
 
@@ -106,7 +106,7 @@
 
 ### nowsecure tools
 
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,434 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-21 Radare2 and Frida better together.
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,434 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-24 Radare2 and Frida better together.
 
 * [node-applesing](https://github.com/nowsecure/node-applesign) ⭐ 483 | 🐛 27 | 🌐 TypeScript | 📅 2026-07-02 NodeJS module and commandline utility for re-signing iOS applications (IPA files).
 
@@ -118,7 +118,7 @@
 
 ## Static Analysis
 
-* [jtool.ELF64](https://github.com/MobSF/Mobile-Security-Framework-MobSF/blob/master/mobsf/StaticAnalyzer/tools/ios/jtool.ELF64) ⭐ 21,631 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21
+* [jtool.ELF64](https://github.com/MobSF/Mobile-Security-Framework-MobSF/blob/master/mobsf/StaticAnalyzer/tools/ios/jtool.ELF64) ⭐ 21,637 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21
 * [apfs-fuse](https://github.com/sgan81/apfs-fuse) ⭐ 2,137 | 🐛 125 | 🌐 C++ | 📅 2024-08-13
 * [Mara Framework](https://github.com/xtiankisutsa/MARA_Framework) ⭐ 670 | 🐛 3 | 🌐 Python | 📅 2019-07-26
 * [DyldExtractor](https://github.com/arandomdev/DyldExtractor) ⚠️ Archived
@@ -133,7 +133,7 @@
 
 ## Dynamic Analysis
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,341 | 🐛 55 | 🌐 Python | 📅 2026-07-23 objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
+* [objection](https://github.com/sensepost/objection) ⭐ 9,342 | 🐛 55 | 🌐 Python | 📅 2026-07-23 objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 
 * [reFlutter](https://github.com/Impact-I/reFlutter) ⭐ 2,737 | 🐛 10 | 🌐 Python | 📅 2026-08-11. reFlutter.
 
@@ -174,8 +174,8 @@
 
 ### Framework
 
-* [MobSf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,631 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21
-* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,071 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03
+* [MobSf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,637 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21
+* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,072 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03
 * [Medusa](https://github.com/Ch0pin/medusa) ⭐ 2,331 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-11. Binary instrumentation framework based on FRIDA
 * [pirogue](https://pts-project.org/). Mobile device forensics & digital investigation.
 
