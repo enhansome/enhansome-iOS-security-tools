@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux shell for iOS",
+            "homepage": "https://ish.app",
             "id": 90320494,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T06:20:13Z",
+            "open_issues": 703,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20375
+            "stars": 20375,
+            "topics": [
+              "emulator",
+              "hacktoberfest",
+              "ios",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -26,12 +36,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+            "homepage": null,
             "id": 369755856,
             "language": "Go",
-            "last_commit": "2026-08-03T08:00:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:26:01Z",
+            "open_issues": 21,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 9943
+            "stars": 9957,
+            "topics": [
+              "apple",
+              "appstore",
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "go",
+              "golang",
+              "golang-library",
+              "ios",
+              "ipa",
+              "itunes",
+              "macos",
+              "research",
+              "reverse-engineering",
+              "security",
+              "swift",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -42,12 +75,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "idb is a flexible command line interface for automating iOS simulators and devices",
+            "homepage": "https://fbidb.io/",
             "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-27T17:02:35Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T12:19:51Z",
+            "open_issues": 182,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5300
+            "stars": 5302,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -58,12 +96,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A WebDriver server for iOS that runs inside the Simulator.",
+            "homepage": null,
             "id": 41855272,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-26T02:25:02Z",
+            "open_issues": 180,
             "owner": "facebookarchive",
             "repo": "WebDriverAgent",
-            "stars": 4260
+            "stars": 4260,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -74,12 +117,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pull decrypted ipa from jailbreak device",
+            "homepage": null,
             "id": 112638598,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-03T01:42:52Z",
+            "open_issues": 107,
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3922
+            "stars": 3922,
+            "topics": [
+              "decrypted",
+              "dumpdecrypted",
+              "ios",
+              "ipa",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -90,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast iOS executable dumper",
+            "homepage": null,
             "id": 15789289,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2024-11-15T10:31:48Z",
+            "open_issues": 43,
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3824
+            "stars": 3824,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -106,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[deprecated] Yet another frida based iOS dumpdecrypted. Also decrypts app extensions",
+            "homepage": null,
             "id": 135033395,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T09:46:16Z",
+            "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1495
+            "stars": 1496,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -122,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken",
+            "homepage": null,
             "id": 1419482,
             "language": "Objective-C",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-15T08:22:49Z",
+            "open_issues": 19,
             "owner": "ptoomey3",
             "repo": "Keychain-Dumper",
-            "stars": 1419
+            "stars": 1419,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -138,12 +207,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
+            "homepage": null,
             "id": 13483186,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-03-25T07:53:46Z",
+            "open_issues": 36,
             "owner": "dmayer",
             "repo": "idb",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "project"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -154,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install IPA from command line",
+            "homepage": null,
             "id": 6970256,
             "language": "C",
+            "license": null,
             "last_commit": "2018-07-03T07:06:41Z",
+            "open_issues": 12,
             "owner": "autopear",
             "repo": "ipainstaller",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -170,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Mobile Backup Extractor",
+            "homepage": null,
             "id": 165453863,
             "language": "C",
+            "license": "MPL-2.0",
             "last_commit": "2022-05-28T17:18:49Z",
+            "open_issues": 2,
             "owner": "Siguza",
             "repo": "imobax",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         }
@@ -192,12 +278,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform protocol library to communicate with iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180677,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-06-10T07:52:18Z",
+            "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8136
+            "stars": 8136,
+            "topics": [
+              "c",
+              "ios",
+              "library",
+              "lockdownd",
+              "protocol"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -208,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
+            "homepage": "https://dantheman827.github.io/ios-app-signer",
             "id": 45699315,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-01T00:42:47Z",
+            "open_issues": 123,
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6314
+            "stars": 6314,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -224,12 +326,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS/macOS Research Swiss Army Knife",
+            "homepage": "https://blacktop.github.io/ipsw",
             "id": 146060123,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T01:35:37Z",
+            "open_issues": 7,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3673
+            "stars": 3674,
+            "topics": [
+              "apple",
+              "class-dump",
+              "dyld",
+              "dyld-shared-cache",
+              "firmware",
+              "golang",
+              "img4",
+              "ios",
+              "ipsw",
+              "kernelcache",
+              "lzfse",
+              "lzss",
+              "macho",
+              "macho-parser",
+              "macos",
+              "ota",
+              "swift",
+              "swift-dump"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -240,12 +366,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Restore/upgrade firmware of iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 13831185,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-23T02:01:06Z",
+            "open_issues": 332,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1918
+            "stars": 1918,
+            "topics": [
+              "c",
+              "firmware",
+              "idevicerestore",
+              "ios",
+              "ipsw",
+              "restore",
+              "shsh",
+              "signing"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -256,12 +396,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A socket daemon to multiplex connections from and to iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180474,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-12-06T01:14:51Z",
+            "open_issues": 117,
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1754
+            "stars": 1754,
+            "topics": [
+              "c",
+              "daemon",
+              "ios",
+              "libimobiledevice",
+              "library",
+              "usb",
+              "usbmuxd"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -272,12 +425,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage apps of iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180848,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-10-30T20:49:43Z",
+            "open_issues": 67,
             "owner": "libimobiledevice",
             "repo": "ideviceinstaller",
-            "stars": 1446
+            "stars": 1446,
+            "topics": [
+              "application",
+              "apps",
+              "c",
+              "ideviceinstaller",
+              "installation",
+              "ios",
+              "libimobiledevice"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -288,12 +454,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fuse filesystem to access the contents of iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180717,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-04-22T08:36:15Z",
+            "open_issues": 61,
             "owner": "libimobiledevice",
             "repo": "ifuse",
-            "stars": 1016
+            "stars": 1016,
+            "topics": [
+              "afc",
+              "c",
+              "fuse",
+              "fuse-filesystem",
+              "ifuse",
+              "ios",
+              "mount"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -304,12 +483,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A client library to multiplex connections from and to iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 12892000,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2025-09-07T22:15:00Z",
+            "open_issues": 31,
             "owner": "libimobiledevice",
             "repo": "libusbmuxd",
-            "stars": 687
+            "stars": 687,
+            "topics": [
+              "c",
+              "ios",
+              "iproxy",
+              "library",
+              "usb",
+              "usbmuxd"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -320,12 +511,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180767,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-23T01:27:21Z",
+            "open_issues": 47,
             "owner": "libimobiledevice",
             "repo": "libirecovery",
-            "stars": 651
+            "stars": 651,
+            "topics": [
+              "dfu",
+              "iboot",
+              "ibss",
+              "ios",
+              "irecovery",
+              "library"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -336,12 +539,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to handle Apple Property List format in binary or XML",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180632,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-05-22T22:53:04Z",
+            "open_issues": 32,
             "owner": "libimobiledevice",
             "repo": "libplist",
-            "stars": 635
+            "stars": 635,
+            "topics": [
+              "c",
+              "cpp",
+              "library",
+              "plist",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -352,12 +566,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to handle the activation process of iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 25316560,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2025-09-07T22:20:07Z",
+            "open_issues": 19,
             "owner": "libimobiledevice",
             "repo": "libideviceactivation",
-            "stars": 359
+            "stars": 360,
+            "topics": [
+              "activation",
+              "c",
+              "ios",
+              "library",
+              "mobileactivation"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -368,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial fork from saurik git repository git://git.saurik.com/ldid.git",
+            "homepage": null,
             "id": 97381537,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2020-11-29T16:00:20Z",
+            "open_issues": 2,
             "owner": "xerub",
             "repo": "ldid",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         }
@@ -390,12 +620,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Radare2 and Frida better together.",
+            "homepage": null,
             "id": 35610263,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T23:25:59Z",
+            "open_issues": 44,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1435
+            "stars": 1435,
+            "topics": [
+              "android-security",
+              "dynamic-analysis",
+              "frida",
+              "ios-security",
+              "radare2",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -406,12 +648,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NodeJS module and commandline utility for re-signing iOS applications (IPA files).",
+            "homepage": "https://www.nowsecure.com",
             "id": 50606910,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-02T08:50:20Z",
+            "open_issues": 27,
             "owner": "nowsecure",
             "repo": "node-applesign",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "apple",
+              "codesign",
+              "entitlements",
+              "ios",
+              "nowsecure",
+              "re-sign",
+              "signing"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -422,12 +677,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract the Info.plist from an IPA",
+            "homepage": null,
             "id": 45296707,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-04T02:48:32Z",
+            "open_issues": 5,
             "owner": "nowsecure",
             "repo": "ipa-extract-info",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "ipa",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         }
@@ -444,12 +707,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+            "homepage": "https://opensecurity.in",
             "id": 30102273,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T04:55:25Z",
+            "open_issues": 25,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21658
+            "stars": 21661,
+            "topics": [
+              "android-security",
+              "api-testing",
+              "apk",
+              "cwe",
+              "devsecops",
+              "dynamic-analysis",
+              "ios-security",
+              "malware-analysis",
+              "mastg",
+              "masvs",
+              "mobile-security",
+              "mobsf",
+              "mstg",
+              "owasp",
+              "rest",
+              "runtime-security",
+              "static-analysis",
+              "web-security",
+              "windows-mobile-security"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -460,12 +748,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FUSE driver for APFS (Apple File System)",
+            "homepage": null,
             "id": 106879638,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-13T19:36:10Z",
+            "open_issues": 125,
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2137
+            "stars": 2137,
+            "topics": [
+              "apfs",
+              "apfs-fuse",
+              "apple",
+              "driver",
+              "encryption",
+              "filesystem",
+              "fuse-driver",
+              "linux",
+              "mount",
+              "volume"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -476,12 +780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in testing mobile applications against the OWASP mobile security  threats. ",
+            "homepage": "http://www.shadowinfosec.io",
             "id": 62579138,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2019-07-26T13:46:56Z",
+            "open_issues": 3,
             "owner": "xtiankisutsa",
             "repo": "MARA_Framework",
-            "stars": 670
+            "stars": 670,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -492,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Extract Binaries from Apple's Dyld Shared Cache",
+            "homepage": null,
             "id": 255108963,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-27T00:32:37Z",
+            "open_issues": 7,
             "owner": "arandomdev",
             "repo": "DyldExtractor",
-            "stars": 471
+            "stars": 471,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -513,12 +827,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts for the Ghidra software reverse engineering suite.",
+                "homepage": null,
                 "id": 174371514,
                 "language": "YARA",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-07T09:38:51Z",
+                "open_issues": 13,
                 "owner": "ghidraninja",
                 "repo": "ghidra_scripts",
-                "stars": 1165
+                "stars": 1165,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             }
@@ -537,12 +856,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📱 objection - runtime mobile exploration",
+            "homepage": null,
             "id": 95770373,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-23T13:40:22Z",
+            "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9348
+            "stars": 9350,
+            "topics": [
+              "android",
+              "framework",
+              "frida",
+              "instrumentation",
+              "ios",
+              "mobile",
+              "pentest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -553,12 +886,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flutter Reverse Engineering Framework",
+            "homepage": null,
             "id": 481258108,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-11T22:22:43Z",
+            "open_issues": 11,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2738
+            "stars": 2737,
+            "topics": [
+              "bugbounty",
+              "mobile-security",
+              "reverse-engineering",
+              "ssl-pinning"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -569,12 +912,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Documentation:",
+            "homepage": "http://dpnishant.github.io/appmon",
             "id": 57376133,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-01T20:29:15Z",
+            "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1631
+            "stars": 1631,
+            "topics": [
+              "android",
+              "appmon",
+              "frida",
+              "instrumentation",
+              "ios-app",
+              "macos-app",
+              "mobile-security",
+              "reverse-engineering",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -585,12 +943,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source mobile security testing suite for iOS and Android. Previously Passionfruit",
+            "homepage": "http://codecolor.ist/grapefruit/",
             "id": 250478233,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T19:32:49Z",
+            "open_issues": 12,
             "owner": "ChiChou",
             "repo": "grapefruit",
-            "stars": 1379
+            "stars": 1379,
+            "topics": [
+              "ios",
+              "mobile",
+              "mobile-security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -601,12 +969,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform",
+            "homepage": null,
             "id": 218020351,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-05T11:03:25Z",
+            "open_issues": 4,
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1184
+            "stars": 1184,
+            "topics": [
+              "frida",
+              "frida-ios-hook",
+              "hooking",
+              "ios",
+              "pentest",
+              "pentesting-tools",
+              "reverse-engineering",
+              "script-loader",
+              "trace"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -617,12 +1000,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform",
+            "homepage": null,
             "id": 218020351,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-05T11:03:25Z",
+            "open_issues": 4,
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1184
+            "stars": 1184,
+            "topics": [
+              "frida",
+              "frida-ios-hook",
+              "hooking",
+              "ios",
+              "pentest",
+              "pentesting-tools",
+              "reverse-engineering",
+              "script-loader",
+              "trace"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -633,12 +1031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A universal memory dumper using Frida",
+            "homepage": null,
             "id": 58191695,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-07T13:03:21Z",
+            "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 859
+            "stars": 859,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -649,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security profiling for blackbox iOS",
+            "homepage": "http://isecpartners.github.io/Introspy-iOS/",
             "id": 6907295,
             "language": "Objective-C",
+            "license": "GPL-2.0",
             "last_commit": "2016-10-26T19:03:16Z",
+            "open_issues": 20,
             "owner": "iSECPartners",
             "repo": "Introspy-iOS",
-            "stars": 739
+            "stars": 739,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -665,12 +1073,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS support agent for automation",
+            "homepage": "http://airtest.netease.com/",
             "id": 131815259,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-03T09:04:42Z",
+            "open_issues": 147,
             "owner": "AirtestProject",
             "repo": "iOS-Tagent",
-            "stars": 723
+            "stars": 723,
+            "topics": [
+              "automated-testing",
+              "automation",
+              "ios",
+              "ios-app",
+              "ios-ui"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -681,12 +1100,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dart: Advanced debugging skills used in the iOS project development process, involves the dynamic debugging, static analysis and decompile of third-party libraries. iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域",
+            "homepage": null,
             "id": 93843247,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-09-29T14:43:38Z",
+            "open_issues": 1,
             "owner": "aozhimin",
             "repo": "iOS-Debug-Hacks",
-            "stars": 681
+            "stars": 681,
+            "topics": [
+              "assembly-x86",
+              "debug",
+              "hacking",
+              "ios",
+              "lldb",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -697,12 +1128,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems",
+            "homepage": null,
             "id": 392163160,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-29T06:07:36Z",
+            "open_issues": 63,
             "owner": "bytedance",
             "repo": "Fastbot_iOS",
-            "stars": 599
+            "stars": 599,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -713,12 +1149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of useful FRIDA Mobile Scripts",
+            "homepage": null,
             "id": 259392313,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-10T15:13:44Z",
+            "open_issues": 0,
             "owner": "m0bilesecurity",
             "repo": "Frida-Mobile-Scripts",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -729,12 +1170,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web-based Frida framework and toolkit for Android & iOS penetration testing, mobile security, and dynamic analysis, featuring AI-assisted Frida script generation.",
+            "homepage": "https://fsr.pwn.so/",
             "id": 734477425,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-15T10:51:53Z",
+            "open_issues": 2,
             "owner": "z3n70",
             "repo": "Frida-Script-Runner",
-            "stars": 374
+            "stars": 374,
+            "topics": [
+              "android",
+              "android-security",
+              "apk",
+              "apkdownload",
+              "bypass",
+              "dynamic-analysis",
+              "frida",
+              "frida-gui",
+              "ios",
+              "ios-security",
+              "mobile-security",
+              "mstg",
+              "pentest",
+              "pentest-ai",
+              "reverse-engineering",
+              "runtime-security-testing",
+              "security",
+              "security-tools",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -745,12 +1211,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rvictl for Linux and Windows: capture packets sent/received by iOS devices",
+            "homepage": null,
             "id": 103056218,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-26T00:49:04Z",
+            "open_issues": 2,
             "owner": "gh2o",
             "repo": "rvi_capture",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "ios",
+              "iphone",
+              "packet-capture",
+              "packet-sniffer",
+              "python3",
+              "rvictl",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -761,12 +1240,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.",
+            "homepage": null,
             "id": 245381045,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-04T09:36:16Z",
+            "open_issues": 9,
             "owner": "NorthwaveSecurity",
             "repo": "fridax",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "ahead-of-time",
+              "android",
+              "aot",
+              "arguments",
+              "frida",
+              "functions",
+              "intercept",
+              "ios",
+              "jit",
+              "just-in-time",
+              "modify",
+              "mono",
+              "variables",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -779,12 +1278,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Filesystem monitor tool for Linux/Android iOS/macOS",
+                "homepage": "https://www.nowsecure.com",
                 "id": 49590440,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-04-11T13:42:05Z",
+                "open_issues": 21,
                 "owner": "nowsecure",
                 "repo": "fsmon",
-                "stars": 1023
+                "stars": 1024,
+                "topics": [
+                  "android",
+                  "dynamic-analysis",
+                  "filesystem",
+                  "linux",
+                  "nowsecure",
+                  "osx",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             },
@@ -795,12 +1307,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycript fork powered by Frida.",
+                "homepage": null,
                 "id": 67085858,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-03-04T04:31:57Z",
+                "open_issues": 13,
                 "owner": "nowsecure",
                 "repo": "frida-cycript",
-                "stars": 397
+                "stars": 397,
+                "topics": [
+                  "cylang",
+                  "dsl",
+                  "frida",
+                  "ios",
+                  "nodejs",
+                  "substrate"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             },
@@ -811,12 +1335,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trace APIs declaratively through Frida.",
+                "homepage": null,
                 "id": 53356872,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-16T11:51:14Z",
+                "open_issues": 20,
                 "owner": "nowsecure",
                 "repo": "frida-trace",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "frida",
+                  "nowsecure",
+                  "trace"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             },
@@ -827,12 +1360,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grab screenshots using Frida.",
+                "homepage": null,
                 "id": 51963094,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-18T00:14:46Z",
+                "open_issues": 0,
                 "owner": "nowsecure",
                 "repo": "frida-screenshot",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "frida",
+                  "frida-screenshot",
+                  "ios",
+                  "nodejs",
+                  "screenshot"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             }
@@ -850,12 +1394,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+                "homepage": "https://opensecurity.in",
                 "id": 30102273,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T04:55:25Z",
+                "open_issues": 25,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21658
+                "stars": 21661,
+                "topics": [
+                  "android-security",
+                  "api-testing",
+                  "apk",
+                  "cwe",
+                  "devsecops",
+                  "dynamic-analysis",
+                  "ios-security",
+                  "malware-analysis",
+                  "mastg",
+                  "masvs",
+                  "mobile-security",
+                  "mobsf",
+                  "mstg",
+                  "owasp",
+                  "rest",
+                  "runtime-security",
+                  "static-analysis",
+                  "web-security",
+                  "windows-mobile-security"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             },
@@ -866,12 +1435,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
+                "homepage": "https://twitter.com/mobilesecurity_",
                 "id": 250552704,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-03T21:28:34Z",
+                "open_issues": 8,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3077
+                "stars": 3077,
+                "topics": [
+                  "android-security",
+                  "frida",
+                  "ios-security",
+                  "mobile-security",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             },
@@ -882,12 +1462,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile Edge-Dynamic Unified Security Analysis",
+                "homepage": "https://github.com/Ch0pin/medusa/wiki",
                 "id": 274614921,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-11T21:00:01Z",
+                "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2334
+                "stars": 2335,
+                "topics": [
+                  "android",
+                  "android-malware",
+                  "dynamic-analysis",
+                  "frida",
+                  "frida-scripts",
+                  "frida-snippets",
+                  "ios",
+                  "ios-reverse-engineering",
+                  "malware",
+                  "medusa",
+                  "penetration-testing",
+                  "pentest"
+                ]
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
             }
@@ -909,12 +1507,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A completely free, open source and online course about Reverse Engineering iOS Applications.",
+            "homepage": null,
             "id": 178894186,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-17T03:04:19Z",
+            "open_issues": 2,
             "owner": "ivRodriguezCA",
             "repo": "RE-iOS-Apps",
-            "stars": 2901
+            "stars": 2901,
+            "topics": [
+              "app-security",
+              "ios",
+              "online-course",
+              "reverse-engineering",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         },
@@ -925,12 +1534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 835962788,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-01T13:13:36Z",
+            "open_issues": 0,
             "owner": "GhidraEnjoyr",
             "repo": "iOS-Reverse-Engineering",
-            "stars": 275
+            "stars": 275,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         }
@@ -947,12 +1561,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for generating detailed, locally-processed reports from iOS backups, supporting encrypted and unencrypted data.",
+            "homepage": "https://piotrbania.com",
             "id": 878291351,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-10-25T05:56:12Z",
+            "open_issues": 0,
             "owner": "piotrbania",
             "repo": "ios_forensics_suite",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "backup",
+              "cybersecurity",
+              "data-recovery",
+              "forensics",
+              "forensics-investigations",
+              "hacking",
+              "ios",
+              "iphone",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         }
@@ -969,12 +1598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform. ",
+            "homepage": null,
             "id": 78745881,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2022-06-26T11:20:21Z",
+            "open_issues": 2,
             "owner": "xtiankisutsa",
             "repo": "awesome-mobile-CTF",
-            "stars": 1165
+            "stars": 1165,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
         }
@@ -983,15 +1617,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:03:06.119Z",
+    "last_updated": "2026-08-29T04:29:43.610Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of iOS tools designed for security purposes.",
+      "homepage": null,
       "id": 362057616,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-27T08:08:21Z",
+      "open_issues": 0,
       "owner": "0xdad0",
       "repo": "awesome-iOS-security-tools",
-      "stars": 55
+      "stars": 55,
+      "topics": [
+        "awesome-list",
+        "frida",
+        "ios",
+        "ios-app",
+        "jailbreak",
+        "reverse-engineering",
+        "security-tools"
+      ]
     },
     "original_repository_sha": "6afe1e0306885d6b67142438f6926dfadd43b8cf",
     "enhanced_repository": "enhansome/enhansome-iOS-security-tools",
