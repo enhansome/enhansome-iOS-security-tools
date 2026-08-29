@@ -19,7 +19,7 @@
             "open_issues": 703,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20375,
+            "stars": 20374,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 21,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 9957,
+            "stars": 9961,
             "topics": [
               "apple",
               "appstore",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:43.610Z",
+    "last_updated": "2026-08-29T05:06:03.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",

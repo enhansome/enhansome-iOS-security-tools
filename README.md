@@ -4,9 +4,9 @@
 
 ### Helpful Tools
 
-* [ish](https://github.com/ish-app/ish) ⭐ 20,375 | 🐛 703 | 🌐 C | 📅 2026-08-22. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
+* [ish](https://github.com/ish-app/ish) ⭐ 20,374 | 🐛 703 | 🌐 C | 📅 2026-08-22. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
 
-* [ipatool](https://github.com/majd/ipatool) ⭐ 9,957 | 🐛 21 | 🌐 Go | 📅 2026-08-28
+* [ipatool](https://github.com/majd/ipatool) ⭐ 9,961 | 🐛 21 | 🌐 Go | 📅 2026-08-28
 
 * [idb-facebook](https://github.com/facebook/idb/) ⭐ 5,302 | 🐛 182 | 🌐 Swift | 📅 2026-08-28. Tool for replacing WebDriverAgent.
 
