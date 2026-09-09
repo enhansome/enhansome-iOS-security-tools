@@ -19,7 +19,7 @@
             "open_issues": 706,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20427,
+            "stars": 20429,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -42,10 +42,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-03T22:34:14Z",
-            "open_issues": 31,
+            "open_issues": 30,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11010,
+            "stars": 11020,
             "topics": [
               "apple",
               "appstore",
@@ -80,11 +80,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-08T01:18:35Z",
-            "open_issues": 181,
+            "last_commit": "2026-09-08T22:45:20Z",
+            "open_issues": 182,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5316,
+            "stars": 5317,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -126,7 +126,7 @@
             "open_issues": 107,
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3927,
+            "stars": 3928,
             "topics": [
               "decrypted",
               "dumpdecrypted",
@@ -195,7 +195,7 @@
             "open_issues": 19,
             "owner": "ptoomey3",
             "repo": "Keychain-Dumper",
-            "stars": 1421,
+            "stars": 1422,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -216,7 +216,7 @@
             "open_issues": 36,
             "owner": "dmayer",
             "repo": "idb",
-            "stars": 954,
+            "stars": 953,
             "topics": [
               "project"
             ]
@@ -331,11 +331,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:23:32Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-08T21:53:14Z",
+            "open_issues": 8,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3690,
+            "stars": 3691,
             "topics": [
               "apple",
               "class-dump",
@@ -375,7 +375,7 @@
             "open_issues": 333,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1929,
+            "stars": 1931,
             "topics": [
               "c",
               "firmware",
@@ -716,7 +716,7 @@
             "open_issues": 30,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21718,
+            "stars": 21719,
             "topics": [
               "android-security",
               "api-testing",
@@ -789,7 +789,7 @@
             "open_issues": 3,
             "owner": "xtiankisutsa",
             "repo": "MARA_Framework",
-            "stars": 670,
+            "stars": 671,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -865,7 +865,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9372,
+            "stars": 9373,
             "topics": [
               "android",
               "framework",
@@ -895,7 +895,7 @@
             "open_issues": 11,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2748,
+            "stars": 2749,
             "topics": [
               "bugbounty",
               "mobile-security",
@@ -1040,7 +1040,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 859,
+            "stars": 860,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1079,7 +1079,7 @@
             "language": "Objective-C",
             "license": "NOASSERTION",
             "last_commit": "2025-12-03T09:04:42Z",
-            "open_issues": 147,
+            "open_issues": 146,
             "owner": "AirtestProject",
             "repo": "iOS-Tagent",
             "stars": 722,
@@ -1403,7 +1403,7 @@
                 "open_issues": 30,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21718,
+                "stars": 21719,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1516,7 +1516,7 @@
             "open_issues": 2,
             "owner": "ivRodriguezCA",
             "repo": "RE-iOS-Apps",
-            "stars": 2906,
+            "stars": 2907,
             "topics": [
               "app-security",
               "ios",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:21:17.863Z",
+    "last_updated": "2026-09-09T01:27:50.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
