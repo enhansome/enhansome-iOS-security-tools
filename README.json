@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-22T06:20:13Z",
-            "open_issues": 710,
+            "open_issues": 696,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20440,
+            "stars": 20447,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 35,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11083,
+            "stars": 11096,
             "topics": [
               "apple",
               "appstore",
@@ -80,11 +80,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-12T01:06:30Z",
-            "open_issues": 184,
+            "last_commit": "2026-09-12T01:59:11Z",
+            "open_issues": 183,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5326,
+            "stars": 5325,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -287,7 +287,7 @@
             "open_issues": 846,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8179,
+            "stars": 8182,
             "topics": [
               "c",
               "ios",
@@ -335,7 +335,7 @@
             "open_issues": 7,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3703,
+            "stars": 3704,
             "topics": [
               "apple",
               "class-dump",
@@ -716,7 +716,7 @@
             "open_issues": 32,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21750,
+            "stars": 21757,
             "topics": [
               "android-security",
               "api-testing",
@@ -757,7 +757,7 @@
             "open_issues": 126,
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2143,
+            "stars": 2145,
             "topics": [
               "apfs",
               "apfs-fuse",
@@ -865,7 +865,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9381,
+            "stars": 9383,
             "topics": [
               "android",
               "framework",
@@ -1403,7 +1403,7 @@
                 "open_issues": 32,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21750,
+                "stars": 21757,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1444,7 +1444,7 @@
                 "open_issues": 9,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3083,
+                "stars": 3085,
                 "topics": [
                   "android-security",
                   "frida",
@@ -1471,7 +1471,7 @@
                 "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2341,
+                "stars": 2340,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:28:54.562Z",
+    "last_updated": "2026-09-13T01:22:11.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
