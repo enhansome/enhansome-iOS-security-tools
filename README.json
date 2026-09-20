@@ -19,7 +19,7 @@
             "open_issues": 697,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20480,
+            "stars": 20485,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -41,11 +41,11 @@
             "id": 369755856,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T21:13:56Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-19T17:13:29Z",
+            "open_issues": 13,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11309,
+            "stars": 11320,
             "topics": [
               "apple",
               "appstore",
@@ -81,8 +81,8 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:17:04Z",
-            "open_issues": 174,
+            "last_commit": "2026-09-19T20:04:29Z",
+            "open_issues": 175,
             "owner": "facebook",
             "repo": "idb",
             "stars": 5335,
@@ -288,7 +288,7 @@
             "open_issues": 846,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8198,
+            "stars": 8202,
             "topics": [
               "c",
               "ios",
@@ -315,7 +315,7 @@
             "open_issues": 123,
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6319,
+            "stars": 6318,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T21:17:52Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-19T18:40:06Z",
+            "open_issues": 9,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3724,
+            "stars": 3726,
             "topics": [
               "apple",
               "class-dump",
@@ -373,7 +373,7 @@
             "language": "C",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-07T01:03:21Z",
-            "open_issues": 336,
+            "open_issues": 335,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
             "stars": 1941,
@@ -435,7 +435,7 @@
             "open_issues": 67,
             "owner": "libimobiledevice",
             "repo": "ideviceinstaller",
-            "stars": 1451,
+            "stars": 1452,
             "topics": [
               "application",
               "apps",
@@ -518,7 +518,7 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-18T12:30:25Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "libimobiledevice",
             "repo": "libirecovery",
             "stars": 652,
@@ -630,7 +630,7 @@
             "open_issues": 46,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -658,7 +658,7 @@
             "open_issues": 27,
             "owner": "nowsecure",
             "repo": "node-applesign",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "apple",
               "codesign",
@@ -717,7 +717,7 @@
             "open_issues": 31,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21796,
+            "stars": 21797,
             "topics": [
               "android-security",
               "api-testing",
@@ -758,7 +758,7 @@
             "open_issues": 126,
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2147,
+            "stars": 2148,
             "topics": [
               "apfs",
               "apfs-fuse",
@@ -866,7 +866,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9398,
+            "stars": 9401,
             "topics": [
               "android",
               "framework",
@@ -1404,7 +1404,7 @@
                 "open_issues": 31,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21796,
+                "stars": 21797,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1445,7 +1445,7 @@
                 "open_issues": 9,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3088,
+                "stars": 3091,
                 "topics": [
                   "android-security",
                   "frida",
@@ -1472,7 +1472,7 @@
                 "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2342,
+                "stars": 2343,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1517,7 +1517,7 @@
             "open_issues": 2,
             "owner": "ivRodriguezCA",
             "repo": "RE-iOS-Apps",
-            "stars": 2912,
+            "stars": 2914,
             "topics": [
               "app-security",
               "ios",
@@ -1544,7 +1544,7 @@
             "open_issues": 0,
             "owner": "GhidraEnjoyr",
             "repo": "iOS-Reverse-Engineering",
-            "stars": 276,
+            "stars": 277,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:30:29.749Z",
+    "last_updated": "2026-09-20T01:32:38.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
