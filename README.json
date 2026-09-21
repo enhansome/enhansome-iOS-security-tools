@@ -15,11 +15,11 @@
             "id": 90320494,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-22T06:20:13Z",
-            "open_issues": 697,
+            "last_commit": "2026-09-20T20:50:36Z",
+            "open_issues": 645,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20485,
+            "stars": 20493,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 13,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11320,
+            "stars": 11333,
             "topics": [
               "apple",
               "appstore",
@@ -81,7 +81,7 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-19T20:04:29Z",
+            "last_commit": "2026-09-20T16:18:48Z",
             "open_issues": 175,
             "owner": "facebook",
             "repo": "idb",
@@ -288,7 +288,7 @@
             "open_issues": 846,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8202,
+            "stars": 8203,
             "topics": [
               "c",
               "ios",
@@ -336,7 +336,7 @@
             "open_issues": 9,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3726,
+            "stars": 3727,
             "topics": [
               "apple",
               "class-dump",
@@ -376,7 +376,7 @@
             "open_issues": 335,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1941,
+            "stars": 1942,
             "topics": [
               "c",
               "firmware",
@@ -406,7 +406,7 @@
             "open_issues": 118,
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1767,
+            "stars": 1768,
             "topics": [
               "c",
               "daemon",
@@ -627,7 +627,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-19T01:12:54Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1440,
@@ -713,11 +713,11 @@
             "id": 30102273,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T02:16:30Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-21T01:11:08Z",
+            "open_issues": 16,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21797,
+            "stars": 21801,
             "topics": [
               "android-security",
               "api-testing",
@@ -758,7 +758,7 @@
             "open_issues": 126,
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2148,
+            "stars": 2150,
             "topics": [
               "apfs",
               "apfs-fuse",
@@ -866,7 +866,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9401,
+            "stars": 9402,
             "topics": [
               "android",
               "framework",
@@ -1400,11 +1400,11 @@
                 "id": 30102273,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T02:16:30Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-21T01:11:08Z",
+                "open_issues": 16,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21797,
+                "stars": 21801,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1544,7 +1544,7 @@
             "open_issues": 0,
             "owner": "GhidraEnjoyr",
             "repo": "iOS-Reverse-Engineering",
-            "stars": 277,
+            "stars": 278,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:32:38.734Z",
+    "last_updated": "2026-09-21T01:32:34.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
