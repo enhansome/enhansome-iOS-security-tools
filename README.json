@@ -19,7 +19,7 @@
             "open_issues": 645,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20502,
+            "stars": 20504,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -42,10 +42,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-19T17:13:29Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11342,
+            "stars": 11362,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:55:31Z",
+            "last_commit": "2026-09-22T20:06:28Z",
             "open_issues": 175,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5337,
+            "stars": 5338,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -127,7 +127,7 @@
             "open_issues": 107,
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3929,
+            "stars": 3932,
             "topics": [
               "decrypted",
               "dumpdecrypted",
@@ -175,7 +175,7 @@
             "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1501,
+            "stars": 1502,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -285,10 +285,10 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-06-10T07:52:18Z",
-            "open_issues": 846,
+            "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8204,
+            "stars": 8207,
             "topics": [
               "c",
               "ios",
@@ -315,7 +315,7 @@
             "open_issues": 123,
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6318,
+            "stars": 6319,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-22T00:32:50Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-22T08:38:53Z",
+            "open_issues": 13,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3729,
+            "stars": 3730,
             "topics": [
               "apple",
               "class-dump",
@@ -373,10 +373,10 @@
             "language": "C",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-07T01:03:21Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1944,
+            "stars": 1946,
             "topics": [
               "c",
               "firmware",
@@ -406,7 +406,7 @@
             "open_issues": 118,
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1769,
+            "stars": 1771,
             "topics": [
               "c",
               "daemon",
@@ -435,7 +435,7 @@
             "open_issues": 67,
             "owner": "libimobiledevice",
             "repo": "ideviceinstaller",
-            "stars": 1452,
+            "stars": 1453,
             "topics": [
               "application",
               "apps",
@@ -713,11 +713,11 @@
             "id": 30102273,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T01:04:11Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-22T01:48:28Z",
+            "open_issues": 12,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21805,
+            "stars": 21815,
             "topics": [
               "android-security",
               "api-testing",
@@ -866,7 +866,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9403,
+            "stars": 9401,
             "topics": [
               "android",
               "framework",
@@ -892,11 +892,11 @@
             "id": 481258108,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-11T22:22:43Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-23T01:09:08Z",
+            "open_issues": 10,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2759,
+            "stars": 2760,
             "topics": [
               "bugbounty",
               "mobile-security",
@@ -953,7 +953,7 @@
             "open_issues": 13,
             "owner": "ChiChou",
             "repo": "grapefruit",
-            "stars": 1390,
+            "stars": 1391,
             "topics": [
               "ios",
               "mobile",
@@ -1180,7 +1180,7 @@
             "open_issues": 2,
             "owner": "z3n70",
             "repo": "Frida-Script-Runner",
-            "stars": 377,
+            "stars": 378,
             "topics": [
               "android",
               "android-security",
@@ -1400,11 +1400,11 @@
                 "id": 30102273,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T01:04:11Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-22T01:48:28Z",
+                "open_issues": 12,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21805,
+                "stars": 21815,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1472,7 +1472,7 @@
                 "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2345,
+                "stars": 2344,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:47:40.797Z",
+    "last_updated": "2026-09-23T01:43:10.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
