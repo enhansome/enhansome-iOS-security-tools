@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-20T20:50:36Z",
-            "open_issues": 644,
+            "open_issues": 643,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20520,
+            "stars": 20523,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -41,11 +41,11 @@
             "id": 369755856,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-29T22:00:56Z",
+            "last_commit": "2026-10-01T19:57:15Z",
             "open_issues": 16,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11453,
+            "stars": 11458,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-30T19:50:03Z",
+            "last_commit": "2026-10-01T20:49:45Z",
             "open_issues": 181,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5349,
+            "stars": 5350,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -154,7 +154,7 @@
             "open_issues": 43,
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3825,
+            "stars": 3826,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -288,7 +288,7 @@
             "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8219,
+            "stars": 8221,
             "topics": [
               "c",
               "ios",
@@ -315,7 +315,7 @@
             "open_issues": 123,
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6320,
+            "stars": 6321,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T00:16:40Z",
+            "last_commit": "2026-10-01T22:56:27Z",
             "open_issues": 13,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3763,
+            "stars": 3767,
             "topics": [
               "apple",
               "class-dump",
@@ -626,8 +626,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:07:26Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-02T02:16:25Z",
+            "open_issues": 40,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1447,
@@ -811,7 +811,7 @@
             "open_issues": 7,
             "owner": "arandomdev",
             "repo": "DyldExtractor",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -893,7 +893,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-24T07:11:31Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "Impact-I",
             "repo": "reFlutter",
             "stars": 2764,
@@ -1110,7 +1110,7 @@
             "open_issues": 1,
             "owner": "aozhimin",
             "repo": "iOS-Debug-Hacks",
-            "stars": 681,
+            "stars": 682,
             "topics": [
               "assembly-x86",
               "debug",
@@ -1159,7 +1159,7 @@
             "open_issues": 0,
             "owner": "m0bilesecurity",
             "repo": "Frida-Mobile-Scripts",
-            "stars": 436,
+            "stars": 437,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1441,8 +1441,8 @@
                 "id": 250552704,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T10:41:44Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-01T16:29:12Z",
+                "open_issues": 10,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
                 "stars": 3097,
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:20:53.414Z",
+    "last_updated": "2026-10-02T02:31:43.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
@@ -1630,7 +1630,7 @@
       "open_issues": 1,
       "owner": "0xdad0",
       "repo": "awesome-iOS-security-tools",
-      "stars": 53,
+      "stars": 54,
       "topics": [
         "awesome-list",
         "frida",
