@@ -32,7 +32,7 @@
         {
           "node_type": "item",
           "title": "ipatool",
-          "description": null,
+          "description": "majd/ipatool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,7 +45,7 @@
             "open_issues": 16,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11461,
+            "stars": 11462,
             "topics": [
               "apple",
               "appstore",
@@ -81,7 +81,7 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:59:38Z",
+            "last_commit": "2026-10-03T02:40:11Z",
             "open_issues": 181,
             "owner": "facebook",
             "repo": "idb",
@@ -183,7 +183,7 @@
         {
           "node_type": "item",
           "title": "Keychain-Dumper",
-          "description": null,
+          "description": "ptoomey3/Keychain-Dumper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": "idb",
-          "description": null,
+          "description": "dmayer/idb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,7 +590,7 @@
         {
           "node_type": "item",
           "title": "ldid2",
-          "description": null,
+          "description": "xerub/ldid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -704,7 +704,7 @@
         {
           "node_type": "item",
           "title": "jtool.ELF64",
-          "description": null,
+          "description": "MobSF/Mobile-Security-Framework-MobSF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -745,7 +745,7 @@
         {
           "node_type": "item",
           "title": "apfs-fuse",
-          "description": null,
+          "description": "sgan81/apfs-fuse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -777,7 +777,7 @@
         {
           "node_type": "item",
           "title": "Mara Framework",
-          "description": null,
+          "description": "xtiankisutsa/MARA_Framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -798,7 +798,7 @@
         {
           "node_type": "item",
           "title": "DyldExtractor",
-          "description": null,
+          "description": "arandomdev/DyldExtractor",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -824,7 +824,7 @@
             {
               "node_type": "item",
               "title": "Ghidra-script",
-              "description": null,
+              "description": "ghidraninja/ghidra_scripts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -866,7 +866,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9418,
+            "stars": 9419,
             "topics": [
               "android",
               "framework",
@@ -1097,7 +1097,7 @@
         {
           "node_type": "item",
           "title": "iOS-Debug-Hacks",
-          "description": null,
+          "description": "aozhimin/iOS-Debug-Hacks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1391,7 +1391,7 @@
             {
               "node_type": "item",
               "title": "MobSf",
-              "description": null,
+              "description": "MobSF/Mobile-Security-Framework-MobSF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1432,7 +1432,7 @@
             {
               "node_type": "item",
               "title": "RMS-Runtime-Mobile-Security",
-              "description": null,
+              "description": "m0bilesecurity/RMS-Runtime-Mobile-Security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1445,7 +1445,7 @@
                 "open_issues": 10,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3102,
+                "stars": 3103,
                 "topics": [
                   "android-security",
                   "frida",
@@ -1504,7 +1504,7 @@
         {
           "node_type": "item",
           "title": "RE-iOS-Apps",
-          "description": null,
+          "description": "ivRodriguezCA/RE-iOS-Apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1531,7 +1531,7 @@
         {
           "node_type": "item",
           "title": "iOS-Reverse-Engineering",
-          "description": null,
+          "description": "GhidraEnjoyr/iOS-Reverse-Engineering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1558,7 +1558,7 @@
         {
           "node_type": "item",
           "title": "ios_forensics_suite",
-          "description": null,
+          "description": "piotrbania/ios_forensics_suite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1595,7 +1595,7 @@
         {
           "node_type": "item",
           "title": "awesome-mobile-ctf",
-          "description": null,
+          "description": "xtiankisutsa/awesome-mobile-CTF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:16:44.835Z",
+    "last_updated": "2026-10-03T04:49:22.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",

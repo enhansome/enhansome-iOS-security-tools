@@ -6,7 +6,7 @@
 
 * [ish](https://github.com/ish-app/ish) ⭐ 20,526 | 🐛 642 | 🌐 C | 📅 2026-09-20. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
 
-* [ipatool](https://github.com/majd/ipatool) ⭐ 11,461 | 🐛 16 | 🌐 Go | 📅 2026-10-01
+* [ipatool](https://github.com/majd/ipatool) ⭐ 11,462 | 🐛 16 | 🌐 Go | 📅 2026-10-01
 
 * [idb-facebook](https://github.com/facebook/idb/) ⭐ 5,352 | 🐛 181 | 🌐 Swift | 📅 2026-10-03. Tool for replacing WebDriverAgent.
 
@@ -133,7 +133,7 @@
 
 ## Dynamic Analysis
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,418 | 🐛 58 | 🌐 Python | 📅 2026-09-17 objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
+* [objection](https://github.com/sensepost/objection) ⭐ 9,419 | 🐛 58 | 🌐 Python | 📅 2026-09-17 objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 
 * [reFlutter](https://github.com/Impact-I/reFlutter) ⭐ 2,764 | 🐛 0 | 🌐 Python | 📅 2026-09-24. reFlutter.
 
@@ -175,7 +175,7 @@
 ### Framework
 
 * [MobSf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,869 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-30
-* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,102 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01
+* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,103 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01
 * [Medusa](https://github.com/Ch0pin/medusa) ⭐ 2,348 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-06. Binary instrumentation framework based on FRIDA
 * [pirogue](https://pts-project.org/). Mobile device forensics & digital investigation.
 
