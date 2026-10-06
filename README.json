@@ -19,7 +19,7 @@
             "open_issues": 641,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20534,
+            "stars": 20538,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11489,
+            "stars": 11494,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-06T01:28:49Z",
+            "last_commit": "2026-10-06T10:38:22Z",
             "open_issues": 180,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5354,
+            "stars": 5355,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -240,7 +240,7 @@
             "open_issues": 12,
             "owner": "autopear",
             "repo": "ipainstaller",
-            "stars": 261,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:37:18Z",
+            "last_commit": "2026-10-06T06:40:22Z",
             "open_issues": 14,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3777,
+            "stars": 3778,
             "topics": [
               "apple",
               "class-dump",
@@ -464,7 +464,7 @@
             "open_issues": 61,
             "owner": "libimobiledevice",
             "repo": "ifuse",
-            "stars": 1025,
+            "stars": 1026,
             "topics": [
               "afc",
               "c",
@@ -717,7 +717,7 @@
             "open_issues": 12,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21884,
+            "stars": 21889,
             "topics": [
               "android-security",
               "api-testing",
@@ -866,7 +866,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9424,
+            "stars": 9426,
             "topics": [
               "android",
               "framework",
@@ -953,7 +953,7 @@
             "open_issues": 13,
             "owner": "ChiChou",
             "repo": "grapefruit",
-            "stars": 1390,
+            "stars": 1389,
             "topics": [
               "ios",
               "mobile",
@@ -1404,7 +1404,7 @@
                 "open_issues": 12,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21884,
+                "stars": 21889,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1472,7 +1472,7 @@
                 "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2350,
+                "stars": 2351,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1608,7 +1608,7 @@
             "open_issues": 1,
             "owner": "xtiankisutsa",
             "repo": "awesome-mobile-CTF",
-            "stars": 1164,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:17:32.860Z",
+    "last_updated": "2026-10-06T10:39:58.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
