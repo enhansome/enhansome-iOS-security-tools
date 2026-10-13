@@ -4,19 +4,19 @@
 
 ### Helpful Tools
 
-* [ish](https://github.com/ish-app/ish) ⭐ 20,563 | 🐛 642 | 🌐 C | 📅 2026-09-20. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
+* [ish](https://github.com/ish-app/ish) ⭐ 20,570 | 🐛 642 | 🌐 C | 📅 2026-09-20. A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
 
-* [ipatool](https://github.com/majd/ipatool) ⭐ 11,627 | 🐛 13 | 🌐 Go | 📅 2026-10-11
+* [ipatool](https://github.com/majd/ipatool) ⭐ 11,648 | 🐛 12 | 🌐 Go | 📅 2026-10-11
 
-* [idb-facebook](https://github.com/facebook/idb/) ⭐ 5,362 | 🐛 187 | 🌐 Swift | 📅 2026-10-11. Tool for replacing WebDriverAgent.
+* [idb-facebook](https://github.com/facebook/idb/) ⭐ 5,366 | 🐛 187 | 🌐 Swift | 📅 2026-10-12. Tool for replacing WebDriverAgent.
 
 * [WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent) ⚠️ Archived. Archive.
 
-* [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 3,945 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 Pull a decrypted IPA from a jailbroken device
+* [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 3,946 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 Pull a decrypted IPA from a jailbroken device
 
 * [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,829 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15. Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research.
 
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,507 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-29. Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,506 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-29. Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 
 * [Keychain-Dumper](https://github.com/ptoomey3/Keychain-Dumper) ⭐ 1,426 | 🐛 19 | 🌐 Objective-C | 📅 2024-08-15
 
@@ -46,15 +46,15 @@
 
 ### [libimobiledevice](https://libimobiledevice.org/)
 
-* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,247 | 🐛 846 | 🌐 C | 📅 2026-06-10 A library to communicate with services on iOS devices using native protocols.
+* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,252 | 🐛 846 | 🌐 C | 📅 2026-06-10 A library to communicate with services on iOS devices using native protocols.
 
-* [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,322 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+* [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,323 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
-* [ipsw](https://github.com/blacktop/ipsw) ⭐ 3,787 | 🐛 7 | 🌐 Go | 📅 2026-10-10. iOS/macOS Research Swiss Army Knife
+* [ipsw](https://github.com/blacktop/ipsw) ⭐ 3,793 | 🐛 6 | 🌐 Go | 📅 2026-10-13. iOS/macOS Research Swiss Army Knife
 
-* [idevicerestore](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,978 | 🐛 339 | 🌐 C | 📅 2026-10-05 A command-line application to restore firmware files to iOS devices.
+* [idevicerestore](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,982 | 🐛 339 | 🌐 C | 📅 2026-10-05 A command-line application to restore firmware files to iOS devices.
 
-* [usbmuxd](https://github.com/libimobiledevice/usbmuxd) ⭐ 1,777 | 🐛 120 | 🌐 C | 📅 2025-12-06 A socket daemon to multiplex connections from and to iOS devices.
+* [usbmuxd](https://github.com/libimobiledevice/usbmuxd) ⭐ 1,778 | 🐛 120 | 🌐 C | 📅 2025-12-06 A socket daemon to multiplex connections from and to iOS devices.
 
 * [ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) ⭐ 1,466 | 🐛 67 | 🌐 C | 📅 2025-10-30 A command-line application to manage apps and app archives on iOS devices.
 
@@ -106,7 +106,7 @@
 
 ### nowsecure tools
 
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,448 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-11 Radare2 and Frida better together.
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,449 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-13 Radare2 and Frida better together.
 
 * [node-applesing](https://github.com/nowsecure/node-applesign) ⭐ 488 | 🐛 28 | 🌐 TypeScript | 📅 2026-07-02 NodeJS module and commandline utility for re-signing iOS applications (IPA files).
 
@@ -118,7 +118,7 @@
 
 ## Static Analysis
 
-* [jtool.ELF64](https://github.com/MobSF/Mobile-Security-Framework-MobSF/blob/master/mobsf/StaticAnalyzer/tools/ios/jtool.ELF64) ⭐ 21,919 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-30
+* [jtool.ELF64](https://github.com/MobSF/Mobile-Security-Framework-MobSF/blob/master/mobsf/StaticAnalyzer/tools/ios/jtool.ELF64) ⭐ 21,929 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-30
 * [apfs-fuse](https://github.com/sgan81/apfs-fuse) ⭐ 2,159 | 🐛 126 | 🌐 C++ | 📅 2024-08-13
 * [Mara Framework](https://github.com/xtiankisutsa/MARA_Framework) ⭐ 672 | 🐛 3 | 🌐 Python | 📅 2019-07-26
 * [DyldExtractor](https://github.com/arandomdev/DyldExtractor) ⚠️ Archived
@@ -133,17 +133,17 @@
 
 ## Dynamic Analysis
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,437 | 🐛 58 | 🌐 Python | 📅 2026-09-17 objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
+* [objection](https://github.com/sensepost/objection) ⭐ 9,439 | 🐛 58 | 🌐 Python | 📅 2026-09-17 objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 
-* [reFlutter](https://github.com/Impact-I/reFlutter) ⭐ 2,769 | 🐛 1 | 🌐 Python | 📅 2026-09-24. reFlutter.
+* [reFlutter](https://github.com/Impact-I/reFlutter) ⭐ 2,771 | 🐛 1 | 🌐 Python | 📅 2026-09-24. reFlutter.
 
 * [appmon](https://github.com/dpnishant/appmon) ⚠️ Archived. AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida. [Documentation](https://dpnishant.github.io/appmon/).
 
-* [Grapefruit](https://github.com/ChiChou/grapefruit) ⭐ 1,393 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-06 Grapefruit: Runtime Application Instruments for iOS.
+* [Grapefruit](https://github.com/ChiChou/grapefruit) ⭐ 1,397 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-06 Grapefruit: Runtime Application Instruments for iOS.
 
-* [frida-ios-hook](https://github.com/noobpk/frida-ios-hook) ⭐ 1,188 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-05. A script that helps you trace classes, functions, and modify the return values of methods on iOS platform.
+* [frida-ios-hook](https://github.com/noobpk/frida-ios-hook) ⭐ 1,189 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-05. A script that helps you trace classes, functions, and modify the return values of methods on iOS platform.
 
-* [frida-ios-hook](https://github.com/noobpk/frida-ios-hook) ⭐ 1,188 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-05. A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform.
+* [frida-ios-hook](https://github.com/noobpk/frida-ios-hook) ⭐ 1,189 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-05. A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform.
 
 * [fridump](https://github.com/Nightbringer21/fridump) ⭐ 864 | 🐛 27 | 🌐 Python | 📅 2024-08-07. A universal memory dumper using Frida.
 
@@ -174,8 +174,8 @@
 
 ### Framework
 
-* [MobSf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,919 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-30
-* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,110 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01
+* [MobSf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,929 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-30
+* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,111 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12
 * [Medusa](https://github.com/Ch0pin/medusa) ⭐ 2,353 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-06. Binary instrumentation framework based on FRIDA
 * [pirogue](https://pts-project.org/). Mobile device forensics & digital investigation.
 
@@ -193,8 +193,8 @@
 
 ## Resources and Tutorial
 
-* [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) ⭐ 2,916 | 🐛 2 | 📅 2024-04-17
-* [iOS-Reverse-Engineering](https://github.com/GhidraEnjoyr/iOS-Reverse-Engineering) ⭐ 281 | 🐛 0 | 📅 2024-08-01
+* [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) ⭐ 2,917 | 🐛 2 | 📅 2024-04-17
+* [iOS-Reverse-Engineering](https://github.com/GhidraEnjoyr/iOS-Reverse-Engineering) ⭐ 282 | 🐛 0 | 📅 2024-08-01
 * [ios-frida-objection-cheat-sheet](https://www.virtuesecurity.com/kb/ios-frida-objection-pentesting-cheat-sheet/)
 * [ios-Swift Anti-Jailbreak Bypass with Frida](https://syrion.me/blog/ios-swift-antijailbreak-bypass-frida/)
 * [iOS-Bypass-Jailbreak](https://philkeeble.com/ios/reverse-engineering/iOS-Bypass-Jailbreak/)
@@ -210,7 +210,7 @@
 
 ## CTF with iOS app
 
-* [awesome-mobile-ctf](https://github.com/xtiankisutsa/awesome-mobile-CTF) ⭐ 1,162 | 🐛 1 | 📅 2022-06-26
+* [awesome-mobile-ctf](https://github.com/xtiankisutsa/awesome-mobile-CTF) ⭐ 1,163 | 🐛 1 | 📅 2022-06-26
 * [NCC-CON-2018](https://ch1kpee.com/2018/01/08/ncc-con-2018-ios-ctf-solutions/)
 * [ios-ctf](https://www.ivrodriguez.com/mobile-ctf/)
 * [Walkthrough of an iOS CTF](https://www.optiv.com/explore-optiv-insights/source-zero/walkthrough-ios-ctf)
@@ -220,4 +220,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
