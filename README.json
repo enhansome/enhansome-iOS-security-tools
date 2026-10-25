@@ -19,7 +19,7 @@
             "open_issues": 644,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20620,
+            "stars": 20627,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -41,11 +41,11 @@
             "id": 369755856,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-21T01:11:10Z",
+            "last_commit": "2026-10-25T00:20:04Z",
             "open_issues": 14,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11873,
+            "stars": 11904,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-23T21:30:15Z",
-            "open_issues": 194,
+            "last_commit": "2026-10-24T03:58:07Z",
+            "open_issues": 197,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5385,
+            "stars": 5387,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -127,7 +127,7 @@
             "open_issues": 107,
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3972,
+            "stars": 3970,
             "topics": [
               "decrypted",
               "dumpdecrypted",
@@ -288,7 +288,7 @@
             "open_issues": 850,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8286,
+            "stars": 8287,
             "topics": [
               "c",
               "ios",
@@ -376,7 +376,7 @@
             "open_issues": 340,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1990,
+            "stars": 1992,
             "topics": [
               "c",
               "firmware",
@@ -406,7 +406,7 @@
             "open_issues": 120,
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1789,
+            "stars": 1790,
             "topics": [
               "c",
               "daemon",
@@ -711,13 +711,13 @@
             "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
             "homepage": "https://opensecurity.in",
             "id": 30102273,
-            "language": "JavaScript",
+            "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T01:39:22Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-25T01:03:29Z",
+            "open_issues": 10,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 22021,
+            "stars": 22031,
             "topics": [
               "android-security",
               "api-testing",
@@ -758,7 +758,7 @@
             "open_issues": 129,
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2163,
+            "stars": 2164,
             "topics": [
               "apfs",
               "apfs-fuse",
@@ -866,7 +866,7 @@
             "open_issues": 59,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9455,
+            "stars": 9461,
             "topics": [
               "android",
               "framework",
@@ -892,11 +892,11 @@
             "id": 481258108,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T20:11:11Z",
+            "last_commit": "2026-10-24T13:07:14Z",
             "open_issues": 1,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2784,
+            "stars": 2783,
             "topics": [
               "bugbounty",
               "mobile-security",
@@ -979,7 +979,7 @@
             "open_issues": 3,
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1193,
+            "stars": 1192,
             "topics": [
               "frida",
               "frida-ios-hook",
@@ -1010,7 +1010,7 @@
             "open_issues": 3,
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1193,
+            "stars": 1192,
             "topics": [
               "frida",
               "frida-ios-hook",
@@ -1398,13 +1398,13 @@
                 "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
                 "homepage": "https://opensecurity.in",
                 "id": 30102273,
-                "language": "JavaScript",
+                "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-24T01:39:22Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-25T01:03:29Z",
+                "open_issues": 10,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22021,
+                "stars": 22031,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1445,7 +1445,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3132,
+                "stars": 3131,
                 "topics": [
                   "android-security",
                   "frida",
@@ -1472,7 +1472,7 @@
                 "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2360,
+                "stars": 2361,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:54:53.784Z",
+    "last_updated": "2026-10-25T01:31:36.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
