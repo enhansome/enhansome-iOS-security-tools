@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-24T00:50:00Z",
-            "open_issues": 644,
+            "open_issues": 645,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20632,
+            "stars": 20634,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 15,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 11951,
+            "stars": 12000,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-25T03:56:45Z",
-            "open_issues": 197,
+            "last_commit": "2026-10-27T01:53:26Z",
+            "open_issues": 198,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5389,
+            "stars": 5390,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -127,7 +127,7 @@
             "open_issues": 107,
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3971,
+            "stars": 3973,
             "topics": [
               "decrypted",
               "dumpdecrypted",
@@ -154,7 +154,7 @@
             "open_issues": 43,
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3830,
+            "stars": 3831,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -175,7 +175,7 @@
             "open_issues": 5,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1512,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -196,7 +196,7 @@
             "open_issues": 19,
             "owner": "ptoomey3",
             "repo": "Keychain-Dumper",
-            "stars": 1428,
+            "stars": 1429,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -288,7 +288,7 @@
             "open_issues": 849,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8290,
+            "stars": 8292,
             "topics": [
               "c",
               "ios",
@@ -315,7 +315,7 @@
             "open_issues": 123,
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6327,
+            "stars": 6328,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-25T23:26:17Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-26T23:15:38Z",
+            "open_issues": 23,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3829,
+            "stars": 3831,
             "topics": [
               "apple",
               "class-dump",
@@ -376,7 +376,7 @@
             "open_issues": 341,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1993,
+            "stars": 1994,
             "topics": [
               "c",
               "firmware",
@@ -546,7 +546,7 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-29T23:38:02Z",
-            "open_issues": 29,
+            "open_issues": 31,
             "owner": "libimobiledevice",
             "repo": "libplist",
             "stars": 641,
@@ -576,7 +576,7 @@
             "open_issues": 22,
             "owner": "libimobiledevice",
             "repo": "libideviceactivation",
-            "stars": 369,
+            "stars": 371,
             "topics": [
               "activation",
               "c",
@@ -626,11 +626,11 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T01:23:35Z",
+            "last_commit": "2026-10-26T23:32:50Z",
             "open_issues": 47,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1450,
+            "stars": 1449,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -713,11 +713,11 @@
             "id": 30102273,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T00:53:50Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-27T00:08:30Z",
+            "open_issues": 10,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 22035,
+            "stars": 22045,
             "topics": [
               "android-security",
               "api-testing",
@@ -758,7 +758,7 @@
             "open_issues": 130,
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2164,
+            "stars": 2165,
             "topics": [
               "apfs",
               "apfs-fuse",
@@ -866,7 +866,7 @@
             "open_issues": 59,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9460,
+            "stars": 9463,
             "topics": [
               "android",
               "framework",
@@ -896,7 +896,7 @@
             "open_issues": 1,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2783,
+            "stars": 2785,
             "topics": [
               "bugbounty",
               "mobile-security",
@@ -922,7 +922,7 @@
             "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1633,
+            "stars": 1634,
             "topics": [
               "android",
               "appmon",
@@ -949,7 +949,7 @@
             "id": 250478233,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T20:38:36Z",
+            "last_commit": "2026-10-26T15:12:14Z",
             "open_issues": 13,
             "owner": "ChiChou",
             "repo": "grapefruit",
@@ -979,7 +979,7 @@
             "open_issues": 3,
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1191,
+            "stars": 1192,
             "topics": [
               "frida",
               "frida-ios-hook",
@@ -1010,7 +1010,7 @@
             "open_issues": 3,
             "owner": "yazgx97",
             "repo": "frida-ios-hook",
-            "stars": 1191,
+            "stars": 1192,
             "topics": [
               "frida",
               "frida-ios-hook",
@@ -1041,7 +1041,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 863,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1180,7 +1180,7 @@
             "open_issues": 2,
             "owner": "z3n70",
             "repo": "Frida-Script-Runner",
-            "stars": 382,
+            "stars": 383,
             "topics": [
               "android",
               "android-security",
@@ -1288,7 +1288,7 @@
                 "open_issues": 21,
                 "owner": "nowsecure",
                 "repo": "fsmon",
-                "stars": 1031,
+                "stars": 1032,
                 "topics": [
                   "android",
                   "dynamic-analysis",
@@ -1400,11 +1400,11 @@
                 "id": 30102273,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T00:53:50Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-27T00:08:30Z",
+                "open_issues": 10,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22035,
+                "stars": 22045,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1445,7 +1445,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3131,
+                "stars": 3134,
                 "topics": [
                   "android-security",
                   "frida",
@@ -1472,7 +1472,7 @@
                 "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2360,
+                "stars": 2361,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:35:26.633Z",
+    "last_updated": "2026-10-27T02:22:10.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
@@ -1627,7 +1627,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-27T08:08:21Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "0xdad0",
       "repo": "awesome-iOS-security-tools",
       "stars": 54,
