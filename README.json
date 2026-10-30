@@ -19,7 +19,7 @@
             "open_issues": 645,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20642,
+            "stars": 20645,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -42,10 +42,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-25T00:20:04Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 12049,
+            "stars": 12064,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-29T01:53:55Z",
+            "last_commit": "2026-10-30T01:45:25Z",
             "open_issues": 198,
             "owner": "meta",
             "repo": "idb",
-            "stars": 5395,
+            "stars": 5396,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -127,7 +127,7 @@
             "open_issues": 107,
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3977,
+            "stars": 3978,
             "topics": [
               "decrypted",
               "dumpdecrypted",
@@ -175,7 +175,7 @@
             "open_issues": 5,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1513,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -288,7 +288,7 @@
             "open_issues": 849,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8295,
+            "stars": 8297,
             "topics": [
               "c",
               "ios",
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:45:00Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-29T12:06:29Z",
+            "open_issues": 15,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3837,
+            "stars": 3842,
             "topics": [
               "apple",
               "class-dump",
@@ -376,7 +376,7 @@
             "open_issues": 341,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 1997,
+            "stars": 1998,
             "topics": [
               "c",
               "firmware",
@@ -521,7 +521,7 @@
             "open_issues": 52,
             "owner": "libimobiledevice",
             "repo": "libirecovery",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "dfu",
               "iboot",
@@ -630,7 +630,7 @@
             "open_issues": 48,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -713,11 +713,11 @@
             "id": 30102273,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T02:29:39Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-29T06:42:35Z",
+            "open_issues": 6,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 22063,
+            "stars": 22067,
             "topics": [
               "android-security",
               "api-testing",
@@ -758,7 +758,7 @@
             "open_issues": 130,
             "owner": "sgan81",
             "repo": "apfs-fuse",
-            "stars": 2164,
+            "stars": 2166,
             "topics": [
               "apfs",
               "apfs-fuse",
@@ -811,7 +811,7 @@
             "open_issues": 7,
             "owner": "arandomdev",
             "repo": "DyldExtractor",
-            "stars": 473,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -866,7 +866,7 @@
             "open_issues": 54,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9470,
+            "stars": 9472,
             "topics": [
               "android",
               "framework",
@@ -896,7 +896,7 @@
             "open_issues": 1,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2787,
+            "stars": 2792,
             "topics": [
               "bugbounty",
               "mobile-security",
@@ -1083,7 +1083,7 @@
             "open_issues": 146,
             "owner": "AirtestProject",
             "repo": "iOS-Tagent",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "automated-testing",
               "automation",
@@ -1400,11 +1400,11 @@
                 "id": 30102273,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T02:29:39Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-29T06:42:35Z",
+                "open_issues": 6,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22063,
+                "stars": 22067,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1472,7 +1472,7 @@
                 "open_issues": 5,
                 "owner": "Ch0pin",
                 "repo": "medusa",
-                "stars": 2362,
+                "stars": 2363,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:45:43.175Z",
+    "last_updated": "2026-10-30T02:52:27.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
