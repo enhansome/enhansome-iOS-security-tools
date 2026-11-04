@@ -19,7 +19,7 @@
             "open_issues": 646,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20662,
+            "stars": 20663,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 16,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 12120,
+            "stars": 12140,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-03T01:29:37Z",
+            "last_commit": "2026-11-04T02:01:34Z",
             "open_issues": 201,
             "owner": "meta",
             "repo": "idb",
-            "stars": 5406,
+            "stars": 5411,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -127,7 +127,7 @@
             "open_issues": 107,
             "owner": "AloneMonkey",
             "repo": "frida-ios-dump",
-            "stars": 3984,
+            "stars": 3986,
             "topics": [
               "decrypted",
               "dumpdecrypted",
@@ -288,7 +288,7 @@
             "open_issues": 850,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8312,
+            "stars": 8315,
             "topics": [
               "c",
               "ios",
@@ -315,7 +315,7 @@
             "open_issues": 123,
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6333,
+            "stars": 6334,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-31T22:55:57Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-04T01:34:53Z",
+            "open_issues": 10,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3853,
+            "stars": 3860,
             "topics": [
               "apple",
               "class-dump",
@@ -372,7 +372,7 @@
             "id": 13831185,
             "language": "C",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-02T07:50:51Z",
+            "last_commit": "2026-11-03T11:21:56Z",
             "open_issues": 341,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
@@ -406,7 +406,7 @@
             "open_issues": 120,
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1791,
+            "stars": 1792,
             "topics": [
               "c",
               "daemon",
@@ -517,11 +517,11 @@
             "id": 8180767,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-27T20:12:41Z",
+            "last_commit": "2026-11-03T11:18:27Z",
             "open_issues": 52,
             "owner": "libimobiledevice",
             "repo": "libirecovery",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "dfu",
               "iboot",
@@ -717,7 +717,7 @@
             "open_issues": 5,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 22112,
+            "stars": 22123,
             "topics": [
               "android-security",
               "api-testing",
@@ -837,7 +837,7 @@
                 "open_issues": 13,
                 "owner": "ghidraninja",
                 "repo": "ghidra_scripts",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:06.119Z"
@@ -866,7 +866,7 @@
             "open_issues": 54,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9479,
+            "stars": 9481,
             "topics": [
               "android",
               "framework",
@@ -896,7 +896,7 @@
             "open_issues": 1,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2796,
+            "stars": 2797,
             "topics": [
               "bugbounty",
               "mobile-security",
@@ -1041,7 +1041,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 861,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1404,7 +1404,7 @@
                 "open_issues": 5,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22112,
+                "stars": 22123,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1445,7 +1445,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3137,
+                "stars": 3139,
                 "topics": [
                   "android-security",
                   "frida",
@@ -1517,7 +1517,7 @@
             "open_issues": 2,
             "owner": "ivRodriguezCA",
             "repo": "RE-iOS-Apps",
-            "stars": 2919,
+            "stars": 2920,
             "topics": [
               "app-security",
               "ios",
@@ -1544,7 +1544,7 @@
             "open_issues": 0,
             "owner": "GhidraEnjoyr",
             "repo": "iOS-Reverse-Engineering",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:59:40.073Z",
+    "last_updated": "2026-11-04T03:10:09.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
