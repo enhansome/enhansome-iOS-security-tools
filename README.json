@@ -19,7 +19,7 @@
             "open_issues": 646,
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20663,
+            "stars": 20667,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 16,
             "owner": "majd",
             "repo": "ipatool",
-            "stars": 12140,
+            "stars": 12161,
             "topics": [
               "apple",
               "appstore",
@@ -81,11 +81,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-04T02:01:34Z",
+            "last_commit": "2026-11-04T14:37:20Z",
             "open_issues": 201,
             "owner": "meta",
             "repo": "idb",
-            "stars": 5411,
+            "stars": 5412,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:06.119Z"
@@ -288,7 +288,7 @@
             "open_issues": 850,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8315,
+            "stars": 8319,
             "topics": [
               "c",
               "ios",
@@ -332,11 +332,11 @@
             "id": 146060123,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T01:34:53Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-05T01:21:19Z",
+            "open_issues": 11,
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3860,
+            "stars": 3864,
             "topics": [
               "apple",
               "class-dump",
@@ -376,7 +376,7 @@
             "open_issues": 341,
             "owner": "libimobiledevice",
             "repo": "idevicerestore",
-            "stars": 2008,
+            "stars": 2012,
             "topics": [
               "c",
               "firmware",
@@ -521,7 +521,7 @@
             "open_issues": 52,
             "owner": "libimobiledevice",
             "repo": "libirecovery",
-            "stars": 664,
+            "stars": 665,
             "topics": [
               "dfu",
               "iboot",
@@ -576,7 +576,7 @@
             "open_issues": 22,
             "owner": "libimobiledevice",
             "repo": "libideviceactivation",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "activation",
               "c",
@@ -717,7 +717,7 @@
             "open_issues": 5,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 22123,
+            "stars": 22139,
             "topics": [
               "android-security",
               "api-testing",
@@ -863,10 +863,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-27T11:34:43Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9481,
+            "stars": 9484,
             "topics": [
               "android",
               "framework",
@@ -896,7 +896,7 @@
             "open_issues": 1,
             "owner": "Impact-I",
             "repo": "reFlutter",
-            "stars": 2797,
+            "stars": 2798,
             "topics": [
               "bugbounty",
               "mobile-security",
@@ -1221,7 +1221,7 @@
             "open_issues": 2,
             "owner": "gh2o",
             "repo": "rvi_capture",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "ios",
               "iphone",
@@ -1288,7 +1288,7 @@
                 "open_issues": 21,
                 "owner": "nowsecure",
                 "repo": "fsmon",
-                "stars": 1032,
+                "stars": 1031,
                 "topics": [
                   "android",
                   "dynamic-analysis",
@@ -1317,7 +1317,7 @@
                 "open_issues": 13,
                 "owner": "nowsecure",
                 "repo": "frida-cycript",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "cylang",
                   "dsl",
@@ -1404,7 +1404,7 @@
                 "open_issues": 5,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22123,
+                "stars": 22139,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:10:09.322Z",
+    "last_updated": "2026-11-05T03:40:43.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of iOS tools designed for security purposes.",
